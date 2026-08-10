@@ -1,4 +1,4 @@
-const CACHE_NAME = "oerca-data-helper-v1";
+﻿const CACHE_NAME = "oerca-data-helper-v2";
 const BASE = "/OERCA-Data-Helper-Releases/";
 const APP_SHELL = [
   BASE,
