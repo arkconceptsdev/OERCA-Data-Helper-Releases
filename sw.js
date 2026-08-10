@@ -1,10 +1,10 @@
-﻿const CACHE_NAME = "oerca-data-helper-v2";
+const CACHE_NAME = "oerca-data-helper-v3";
 const BASE = "/OERCA-Data-Helper-Releases/";
 const APP_SHELL = [
   BASE,
   `${BASE}index.html`,
   `${BASE}manifest.json`,
-  `${BASE}assets/index-DVRMC9WH-v2.js`,
+  `${BASE}assets/index-DVRMC9WH-v3.js`,
   `${BASE}assets/index-WxO1s_FW.css`,
   `${BASE}assets/icon-Bvvvlcfe.png`,
   `${BASE}aqfavicon.ico`,
