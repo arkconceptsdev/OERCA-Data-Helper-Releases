@@ -1,0 +1,19 @@
+{
+  "name": "OERCA Data Helper",
+  "short_name": "OERCA Helper",
+  "description": "Parse OERCA_Data.txt files from Aquarium Manager Pro and auto-fill OERCA forms.",
+  "theme_color": "#1e3a5f",
+  "background_color": "#1e3a5f",
+  "display": "standalone",
+  "id": "/OERCA-Data-Helper-Releases/",
+  "start_url": "/OERCA-Data-Helper-Releases/",
+  "scope": "/OERCA-Data-Helper-Releases/",
+  "icons": [
+    {
+      "src": "/OERCA-Data-Helper-Releases/icon.png?v=1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
