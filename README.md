@@ -4,6 +4,7 @@ OERCA Data Helper is a browser-based utility designed to reduce repetitive data 
 
 The tool takes exported Aquarium Manager Pro data and generates bookmarklets that automatically populate supported OERCA forms.
 
+## Tutorial https://youtu.be/JdlR26yGLhI?si=_z64veZ1DRyit1i2
 ## Features
 
 OERCA Data Helper currently supports:
