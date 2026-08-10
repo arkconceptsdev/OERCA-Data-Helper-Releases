@@ -4,7 +4,7 @@ const APP_SHELL = [
   BASE,
   `${BASE}index.html`,
   `${BASE}manifest.json`,
-  `${BASE}assets/index-DVRMC9WH.js`,
+  `${BASE}assets/index-DVRMC9WH-v2.js`,
   `${BASE}assets/index-WxO1s_FW.css`,
   `${BASE}assets/icon-Bvvvlcfe.png`,
   `${BASE}aqfavicon.ico`,
